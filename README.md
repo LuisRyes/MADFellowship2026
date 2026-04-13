@@ -24,8 +24,10 @@ Aproveché el poder de la IA y herramientas *no-code/low-code* para construir un
     * *Factor Crítico:* Gestión de capacidad mensual del mentor.
 
 ## 📦 Entrega y Demo
-- **Flujo de Automatización:** [PON AQUÍ EL LINK A TU ESCENARIO DE MAKE]
-- **Base de Datos:** [PON AQUÍ EL LINK A TU GOOGLE SHEETS]
+- **Flujo de Automatización:** [https://us2.make.com/public/shared-scenario/g6olEaJyVAC/integration-telegram-bot
+]
+- **Base de Datos:** [https://docs.google.com/spreadsheets/d/1dgZJsbL-1UzGvvoME71ZKs1g0-LpccVz3sgkj3SuiEg/edit?usp=sharing
+]
 
 ## 🚀 Cómo ejecutar el Dashboard
 1. Clona este repositorio.
