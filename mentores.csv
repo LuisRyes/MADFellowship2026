@@ -1,0 +1,11 @@
+ID_Mentor,Nombre_Completo,Correo,Industria_Experiencia,Area_Expertise,Etapas_Preferencia,Capacidad_Mensual
+M001,Jorge Elizondo,j.elizondo@mentores.mx,Fintech,Ventas,"MVP,Traccion",3
+M002,Patricia Leal,p.leal@mentores.mx,SaaS,VC,"Traccion,Serie A",1
+M003,Tomás Ibarra,t.ibarra@mentores.mx,Healthtech,Tech,"Idea,MVP",2
+M004,Renata Solís,r.solis@mentores.mx,Logística,Marketing,"MVP,Traccion,Serie A",2
+M005,Gustavo Pedraza,g.pedraza@mentores.mx,Fintech,Legal,"Serie A",1
+M006,Alejandra Vidal,a.vidal@mentores.mx,SaaS,Ventas,"Idea,MVP,Traccion",3
+M007,Héctor Bravo,h.bravo@mentores.mx,Healthtech,VC,"Idea,Traccion",2
+M008,Verónica Malo,v.malo@mentores.mx,Logística,Tech,"MVP,Serie A",2
+M009,Ernesto Cano,e.cano@mentores.mx,SaaS,Marketing,"Idea,MVP",3
+M010,Silvia Garza,s.garza@mentores.mx,Fintech,Legal,"MVP,Traccion,Serie A",1

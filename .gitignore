@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- Variables Sensibles (Secretos) ---
+# Si creas un archivo para tu API Key de OpenAI, Git lo ignorará
+.env
+.secrets
+secrets.toml
+
+# --- Archivos de Sistema ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Otros ---
+*.log

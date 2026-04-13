@@ -1,0 +1,16 @@
+ID_Fundador,Nombre_Completo,Correo,Industria,Etapa_Startup,Necesidad_Principal,Contexto_Breve
+F001,Valentina Torres,v.torres@epiclab.mx,Fintech,MVP,Ventas,No logro convertir demos en clientes pagadores
+F002,Rodrigo Méndez,r.mendez@epiclab.mx,SaaS,Traccion,VC,Necesito levantar mi ronda seed pero no tengo contactos con VCs
+F003,Camila Herrera,c.herrera@epiclab.mx,Healthtech,Idea,Tech,Tengo el modelo de negocio pero no sé cómo construir el producto
+F004,Andrés Fuentes,a.fuentes@epiclab.mx,Logística,MVP,Marketing,Mi app tiene usuarios pero nadie sabe que existimos
+F005,Sofía Ramírez,s.ramirez@epiclab.mx,Fintech,Serie A,Legal,Necesito estructurar contratos y compliance para expandirme a EE.UU.
+F006,Diego Morales,d.morales@epiclab.mx,SaaS,Idea,Ventas,No sé cómo validar si alguien pagaría por mi solución B2B
+F007,Isabela Castro,i.castro@epiclab.mx,Healthtech,Traccion,VC,Tengo métricas sólidas pero no sé cómo armar un pitch deck para inversión
+F008,Mateo Jiménez,m.jimenez@epiclab.mx,Logística,Serie A,Marketing,Quiero escalar adquisición de clientes sin quemar todo el presupuesto
+F009,Lucía Vargas,l.vargas@epiclab.mx,Fintech,MVP,Tech,Mi backend no escala y el CTO que tenía renunció
+F010,Sebastián Núñez,s.nunez@epiclab.mx,SaaS,Traccion,Ventas,Tengo 40 clientes pero mi ciclo de ventas tarda demasiado
+F011,Mariana Ríos,m.rios@epiclab.mx,Healthtech,Idea,Marketing,No entiendo cómo comunicar mi propuesta de valor a hospitales
+F012,Felipe Soto,f.soto@epiclab.mx,Logística,MVP,Legal,Quiero operar en 3 estados pero no entiendo las regulaciones de transporte
+F013,Natalia Peña,n.pena@epiclab.mx,Fintech,Serie A,Tech,Necesito migrar a microservicios antes de que el sistema colapse
+F014,Carlos Aguirre,c.aguirre@epiclab.mx,SaaS,Idea,VC,Tengo una idea validada cualitativamente y quiero saber si es invertible
+F015,Daniela Campos,d.campos@epiclab.mx,Healthtech,Traccion,Legal,Necesito asesoría en propiedad intelectual y protección de mi algoritmo
